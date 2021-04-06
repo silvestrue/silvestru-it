@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: B2B Tech & IT copy that gets results
-    subtitle: I'd be a lousy copywriter if I didn't do my best
+    subtitle: >-
+      Helping you get more leads, convert them and up-sell them with effective
+      marketing materials
     content: >
       **Need help with marketing materials and content that stands out, gets you
       remembered and - most importantly - gets you the sale?**
