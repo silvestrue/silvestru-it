@@ -130,3 +130,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://silvestru-it-c82f3.netlify.app'
