@@ -1,26 +1,26 @@
-# ✨ silvestru-it ✨
+# ✨ silvestru-site ✨
 
 <img src="https://themes.stackbit.com/images/diy-demo-1024x768.png" width="600">
 
-This is a [Jekyll](https://jekyllrb.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
+You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-diy&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/personal-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Consulting and freelance</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/event-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Virtual or IRL conference</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-starter&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Ultra customizable starter. A developers&#39; favorite.</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-libris&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A documentation theme</a></li>
                 </ul>
 </details>
 
 <details>
         <summary>✏️ &nbsp;<strong>CMS</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
                 <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=nocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Git</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
                 </ul>
 </details>
 
@@ -57,7 +57,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 ## Editing Content
 
-To start editing your site, you can use the Netlify CMS interface at `https://example.com/admin`, replacing `example.com` with your site's URL.
+To start editing your site, you can edit the included Markdown files.
 
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
@@ -75,4 +75,4 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 
 ## Colophon
 
-Generated at `2021-04-06T15:57:40.462Z` by Stackbit version `0.3.50`.
+Generated at `2021-01-25T23:02:48.240Z` by Stackbit version `0.3.44`.

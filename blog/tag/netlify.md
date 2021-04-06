@@ -31,8 +31,7 @@ sections:
     form_id: subscribeForm
     form_action: /thank-you
     form_fields:
-      - type: form_field
-        input_type: email
+      - input_type: email
         name: email
         label: Email
         default_value: Your email address
@@ -42,32 +41,5 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-seo:
-  type: stackbit_page_meta
-  title: Posts in Netlify
-  description: This is the author archive page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Posts in Netlify
-      keyName: property
-    - name: 'og:description'
-      value: This is the author archive page
-      keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Posts in Netlify
-    - name: 'twitter:description'
-      value: This is the author archive page
-    - name: 'twitter:image'
-      value: images/classic/post-5.png
-      relativeUrl: true
 layout: advanced
 ---

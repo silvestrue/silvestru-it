@@ -16,13 +16,6 @@ logicFields:
   - grid_section.background_image_opacity
   - cta_section.background_image_opacity
   - form_section.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.recent_count
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
 models:
   config:
     type: config
@@ -44,18 +37,16 @@ models:
         description: 'The output path for your pages, posts, or collections.'
         default: '/posts/:slug:output_ext'
         hidden: true
-      - type: string
-        name: domain
-        label: Domain
-        description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
         description: A square icon that represents your website
+      - type: string
+        name: description
+        label: Site description
+        description: The default site description used in meta data
       - type: enum
-        name: layout_type
+        name: layout
         label: Layout
         options:
           - full-width
@@ -393,10 +384,10 @@ models:
         label: Title
         description: The title of the page
         required: true
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: The excerpt of the page displayed in meta data
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -448,7 +439,7 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed
+        description: The excerpt of the post displayed in the blog feed and meta data
       - type: image
         name: thumb_image
         label: Image (blog feed)
@@ -476,10 +467,6 @@ models:
         description: >-
           The featured image position in the blog post relative to the post
           header content
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
   advanced:
     type: page
     label: Advanced page
@@ -491,12 +478,17 @@ models:
         label: Title
         description: The title of the page
         required: true
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: The excerpt of the page displayed in meta data
       - type: list
         name: sections
         label: Sections
         description: Page sections
         items:
           type: model
+          labelField: title
           models:
             - hero_section
             - features_section
@@ -504,10 +496,6 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
   hero_section:
     type: object
     label: Hero section
@@ -1639,7 +1627,7 @@ models:
         name: url
         label: URL
         required: true
-        default: '#'
+        widget: url
       - type: enum
         name: style
         label: Style
@@ -1684,53 +1672,3 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
-  stackbit_page_meta:
-    type: object
-    label: Page meta data
-    fields:
-      - type: string
-        name: title
-        label: Title
-        description: The page title that goes into the <title> tag
-        default: ''
-      - type: string
-        name: description
-        label: Description
-        description: The page description that goes into the <meta name="description"> tag
-        default: ''
-      - type: list
-        name: robots
-        label: Robots
-        description: The items that go into the <meta name="robots"> tag
-        items:
-          type: enum
-          options:
-            - all
-            - index
-            - follow
-            - noindex
-            - nofollow
-            - noimageindex
-            - notranslate
-            - none
-      - type: list
-        name: extra
-        label: Extra
-        description: >-
-          Additional definition for specific meta tags such as open-graph,
-          twitter, etc.
-        items:
-          type: object
-          labelField: name
-          fields:
-            - type: string
-              name: name
-              default: ''
-            - type: string
-              name: value
-              default: ''
-            - type: string
-              name: keyName
-              default: name
-            - type: boolean
-              name: relativeUrl
