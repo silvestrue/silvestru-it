@@ -7,10 +7,6 @@ sections:
       Helping you get more leads, convert them and up-sell them with effective
       marketing materials
     content: >
-      **Need help with marketing materials and content that stands out, gets you
-      remembered and - most importantly - gets you the sale?**
-
-
       Click either of these *cool* looking buttons. I'm partial to the *ebony*
       one myself.
     actions:
