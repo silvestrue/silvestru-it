@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: B2B Tech & IT copy that gets results
     subtitle: >-
-      Helping you get more leads, convert them and up-sell them with effective
-      marketing materials
+      Helping you get more leads, convert them and upsell them with effective
+      sales copy and strategy
     content: >
       Click either of these *cool* looking buttons. I'm partial to the *ebony*
       one myself.
