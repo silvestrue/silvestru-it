@@ -10,7 +10,7 @@ sections:
       - label: View Services
         url: /services
         style: primary
-      - label: Give Me Money
+      - label: Get In Touch
         url: /features
         style: secondary
     image: images/avatar_trnsprnt2.png
