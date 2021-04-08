@@ -6,9 +6,6 @@ sections:
     subtitle: >-
       Helping you get more leads, convert them and upsell them with effective
       sales copy and strategy
-    content: >
-      Click either of these *cool* looking buttons. I'm partial to the *ebony*
-      one myself.
     actions:
       - label: View Services
         url: /services
