@@ -2,15 +2,20 @@
 title: Home
 sections:
   - type: hero_section
-    title: B2B Tech & IT copy that gets results
-    subtitle: >-
-      Helping you acquire, nurture and convert leads with effective sales copy
-      and strategy
+    title: This website is designed to squeeze you of your money
+    subtitle: I'd be a lousy copywriter if I didn't do my best
+    content: >
+      **Need help with marketing materials and content that stands out, gets you
+      remembered and - most importantly - gets you the sale?**
+
+
+      Click either of these *cool* looking buttons. I'm partial to the *ebony*
+      one myself.
     actions:
       - label: View Services
         url: /services
         style: primary
-      - label: Get In Touch
+      - label: Give Me Money
         url: /features
         style: secondary
     image: images/avatar_trnsprnt2.png
@@ -26,13 +31,13 @@ sections:
     subtitle: Cool people I have worked with
     grid_items:
       - content: >
-          "\[..] I would like to put in a good word for Silvestru. I hired him
-          last month for a VSL project and I'm very pleased with the results.
-          Not only did he deliver exactly what I asked, he also came through
-          with recommendations on how to improve the product to maximize
-          conversions. He's a talented dude who follows through on promises,
-          communicates regularly and delivers on time. I'm looking forward to
-          our next project together."
+          "I'm not going to weigh in on the controversy here, but I would like
+          to put in a good word for Silvestru. I hired him last month for a VSL
+          project and I'm very pleased with the results. Not only did he deliver
+          exactly what I asked, he also came through with recommendations on how
+          to improve the product to maximize conversions. He's a talented dude
+          who follows through on promises, communicates regularly and delivers
+          on time. I'm looking forward to our next project together."
 
 
           **Jason Keith,** *CEO, Patriot Publications*
