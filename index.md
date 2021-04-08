@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: B2B Tech & IT copy that gets results
     subtitle: >-
-      Helping you get more leads, convert them and upsell them with effective
-      sales copy and strategy
+      Helping you acquire, nurture and convert leads with effective sales copy
+      and strategy
     actions:
       - label: View Services
         url: /services
