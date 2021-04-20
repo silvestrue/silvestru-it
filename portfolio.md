@@ -2,7 +2,7 @@
 title: Portfolio
 sections:
   - type: hero_section
-    title: Portfolio
+    title: Samples
     align: center
     padding_top: large
     padding_bottom: small
