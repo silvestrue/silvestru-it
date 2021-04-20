@@ -6,9 +6,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    subtitle: >-
-      NOTE: just a handful of different types of copy. Need something specific?
-      Ask me
+    subtitle: Just a handful of different types of copy. Need something specific? Ask me
   - type: grid_section
     grid_items:
       - title: B2B Emails
