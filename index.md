@@ -91,7 +91,7 @@ sections:
     content: |
       I was afraid you'd ask that.
     actions:
-      - label: See portfolio
+      - label: See samples
         url: /portfolio
         style: secondary
     actions_position: right
