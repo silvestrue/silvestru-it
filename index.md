@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This website is designed to tactfully convince you to part with your money
-    subtitle: I'd be a lousy copywriter if I didn't do my best
+    subtitle: I'd be a lousy copywriter if I didn't try my best
     content: >
       **Need help with marketing materials and content that stands out, gets you
       remembered and - most importantly - gets you the sale?**
