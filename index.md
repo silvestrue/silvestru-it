@@ -15,7 +15,7 @@ sections:
       - label: View Services
         url: /services
         style: primary
-      - label: Give Me Money
+      - label: Copy Black Magic
         url: /features
         style: secondary
     image: images/avatar_trnsprnt2.png
