@@ -8,25 +8,14 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
-      ### Woah, slow down Dorothy
+    content: |
+      ### So... you want to talk business?
 
+      Great.
 
-      If you want my help taking other people’s money, I want to know more about
-      you first.
+      Please tell me a little bit about you, your project and your goals.
 
-
-      I want to know if I like you and if I can work with you. Unless you’re
-      selling arsenic disguised as children’s food, I don’t care that much about
-      your product - well I do, but it’s not the most important thing.
-
-
-      Let me know about yourself, your project, why you want to do it and how
-      you imagine me contributing to it. I will do my best to reply within 48
-      hours.
-
-
-      Thank you!
+      I reply within 48 working hours.
     content_align: left
     form_position: right
     form_width: fifty
