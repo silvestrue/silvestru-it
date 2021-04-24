@@ -15,7 +15,7 @@ sections:
 
       Please tell me a little bit about you, your project and your goals.
 
-      I reply within 48 working hours.
+      I usually reply within 48 working hours.
     content_align: left
     form_position: right
     form_width: fifty
