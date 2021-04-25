@@ -12,10 +12,10 @@ sections:
       - type: feature
         title: Good copy starts with strategy
         subtitle: How to get to a sound strategy? By asking deep questions
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          This short guide will give you the questions that you need to sell on
+          a deeper level (beliefs + emotion), regardless if you're in B2B or
+          B2C.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
