@@ -30,7 +30,7 @@ header:
     - label: Contact
       url: /contact
       style: link
-    - label: Give Me Money
+    - label: Contact
       url: /contact
       style: primary
   has_anncmnt: true
