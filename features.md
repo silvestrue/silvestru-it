@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features
+    title: "\U0001F3A9Copy Black Magic \U0001F430"
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
