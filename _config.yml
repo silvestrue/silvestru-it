@@ -29,9 +29,6 @@ header:
   secondary_nav_links:
     - label: Contact
       url: /contact
-      style: link
-    - label: Contact
-      url: /contact
       style: primary
   has_anncmnt: true
   anncmnt_content: >
