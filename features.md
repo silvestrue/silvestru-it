@@ -14,10 +14,17 @@ sections:
         subtitle: >-
           Before you put pen to paper, you need to think out a strategy. How do
           you do that? By asking deep questions about your prospect.
-        content: >
+        content: >+
           This short guide will give you the questions that you need to sell on
           a deeper level (beliefs + emotion), regardless if you're in B2B or
           B2C.
+
+
+
+
+
+
+
         image: /images/Copy-Black-Magic-1.png
         image_alt: Top view of business meeting
         media_position: left
