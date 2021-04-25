@@ -11,7 +11,7 @@ sections:
     features:
       - type: feature
         title: Good copy starts with strategy
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: How to get to a sound strategy? By asking deep questions
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
