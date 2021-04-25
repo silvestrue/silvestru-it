@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: "\U0001F3A9Copy Black Magic \U0001F430"
-    subtitle: Features Page Demo
+    subtitle: >-
+      15 questions to create marketing materialsthat capture the soul (and
+      wallet) of yourprospects
     background_color: primary
   - type: features_section
     features:
