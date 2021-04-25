@@ -22,17 +22,6 @@ sections:
         image_alt: Top view of business meeting
         media_position: left
         media_width: fifty
-      - type: feature
-        title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
