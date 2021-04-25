@@ -20,7 +20,7 @@ sections:
           B2C.
         image: /images/Copy-Black-Magic-1.png
         image_alt: Top view of business meeting
-        media_position: right
+        media_position: left
         media_width: fifty
       - type: feature
         title: Section Title Two
