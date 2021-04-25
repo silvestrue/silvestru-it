@@ -26,7 +26,7 @@ sections:
         actions:
           - label: Get It!
             url: 'http://eepurl.com/dwjMID'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
