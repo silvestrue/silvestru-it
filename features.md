@@ -18,7 +18,7 @@ sections:
           This short guide will give you the questions that you need to sell on
           a deeper level (beliefs + emotion), regardless if you're in B2B or
           B2C.
-        image: images/about-3.jpg
+        image: /images/Copy-Black-Magic-1.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
