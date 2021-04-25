@@ -25,7 +25,7 @@ sections:
         media_width: fifty
         actions:
           - label: Get It!
-            url: '#'
+            url: 'http://eepurl.com/dwjMID'
             style: link
             has_icon: false
             icon: arrow-left
