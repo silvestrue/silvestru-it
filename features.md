@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: "\U0001F3A9Copy Black Magic \U0001F430"
     subtitle: >-
-      15 questions to create marketing materialsthat capture the soul (and
-      wallet) of yourprospects
+      15 questions to create marketing materials that capture the soul (and
+      wallet) of your prospects
     background_color: primary
   - type: features_section
     features:
