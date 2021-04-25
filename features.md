@@ -23,6 +23,16 @@ sections:
         image_alt: Top view of business meeting
         media_position: left
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
