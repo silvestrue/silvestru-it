@@ -10,7 +10,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: Good copy starts with strategy
+        title: Good copy starts by asking hard questions
         subtitle: How to get to a sound strategy? By asking deep questions
         content: >
           This short guide will give you the questions that you need to sell on
