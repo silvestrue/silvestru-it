@@ -12,8 +12,8 @@ sections:
       - type: feature
         title: Good copy starts by asking hard questions
         subtitle: >-
-          Before you put pen to paper, you need to think out a strategy. How to
-          do that? By asking deep questions about your prospect.
+          Before you put pen to paper, you need to think out a strategy. How do
+          you do that? By asking deep questions about your prospect.
         content: >
           This short guide will give you the questions that you need to sell on
           a deeper level (beliefs + emotion), regardless if you're in B2B or
