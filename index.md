@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This website is designed to squeeze you of your money
-    subtitle: >-
-      Helping you get more leads, nurture and convert them using focused
-      marketing materials
+    subtitle: I'd be a lousy copywriter if I didn't do my best
     content: >
       **Need help with marketing materials and content that stands out, gets you
       remembered and - most importantly - gets you the sale?**
