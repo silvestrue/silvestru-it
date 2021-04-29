@@ -10,7 +10,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: Good copy starts by asking hard questions
+        title: Good sales copy starts by asking hard questions
         subtitle: >-
           Before you put pen to paper, you need to know your prospect, on a
           soul-level (belief + emotion).
