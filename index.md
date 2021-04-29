@@ -16,7 +16,7 @@ sections:
         url: /services
         style: primary
       - label: Copy Black Magic
-        url: /features
+        url: /copy-black-magic
         style: secondary
     image: images/avatar_trnsprnt2.png
     image_alt: Hero section placeholder image
