@@ -30,7 +30,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: Get It!
+          - label: YES! I want to wield this kind of power!
             url: 'http://eepurl.com/dwjMID'
             style: primary
             has_icon: false
