@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: High-impact sales copy and strategy for Tech & IT businesses
+    title: This website is designed to squeeze you of your money
     subtitle: >-
       Helping you get more leads, nurture and convert them using focused
       marketing materials
