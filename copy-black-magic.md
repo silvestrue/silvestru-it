@@ -15,13 +15,15 @@ sections:
           Before you put pen to paper, you need to know your prospect, on a
           soul-level (belief + emotion).
         content: >
-          This short guide will give you the questions that you need to sell on
-          a deeper level (beliefs + emotion), regardless if you're in B2B or
-          B2C.
+          This short guide will give you the questions that you need to answer
+          in order to differentiate yourself from your competitors, address your
+          prospect's sky-high skepticism (thanks marketers!) and give them the
+          feeling that you are the one who trully gets them and can solve their
+          problem. Works for both B2B or B2C.
 
 
           **BONUS: Added subscription to my non-award-winning,
-          not-politically-correct-but-darned efficient newsletter "Manipulation
+          not-politically-correct-but-darned-effective newsletter "Manipulation
           Without Tears"**
         image: /images/Copy-Black-Magic-1.png
         image_alt: Top view of business meeting
