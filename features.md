@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Copy Black Magic
 sections:
   - type: hero_section
     title: "\U0001F3A9Copy Black Magic \U0001F430"
