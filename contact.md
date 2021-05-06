@@ -24,8 +24,7 @@ sections:
 
 
       (2) Let me know what you're selling. Hopefully it's not [arsenic disguised
-      as childhood food](https://www.youtube.com/watch?v=GaD8y-CGhMw) (although
-      I do love a good challenge).
+      as children's food](https://www.youtube.com/watch?v=tHEOGrkhDp0).
 
 
       (3) You team up with me for my expertise. It's OK to disagree, but you
