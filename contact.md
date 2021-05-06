@@ -28,10 +28,11 @@ sections:
       I do love a good challenge).
 
 
-      (3) You hire me for my expertise. It's OK to disagree, but you recognize
-      that my **focus is on results ($$$)**, not to please some corporate
-      Boba-Bola board arguing whether it's best to use a Vanilla Caucasian or a
-      Gay, Black & Jewish & Gender Bifurcated person on their billboards.
+      (3) You team up with me for my expertise. It's OK to disagree, but you
+      recognize that my **focus is on results ($$$)**, not to please some
+      corporate Boba-Bola board arguing whether it's best to use a Vanilla
+      Caucasian or a Gay, Black & Jewish & Gender Bifurcated person on their
+      billboards.
     content_align: left
     form_position: right
     form_width: fifty
