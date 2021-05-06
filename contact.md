@@ -8,14 +8,30 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: |
-      ### So... you want to talk business?
+    content: >
+      ### So... wanna talk business?
+
 
       Great.
 
-      Please tell me a little bit about you, your project and your goals.
 
-      I usually reply within 48 working hours.
+      Here is my "ideal wife/client list":
+
+
+      (1) Personality match - we get along like a house on fire. Business is
+      personal, life is too short to not enjoy working together. So from
+      everything you've seen/read/watched about me, why me specifically? :-)
+
+
+      (2) Let me know what you're selling. Hopefully it's not [arsenic disguised
+      as childhood food](https://www.youtube.com/watch?v=GaD8y-CGhMw) (although
+      I do love a good challenge).
+
+
+      (3) You hire me for my expertise. It's OK to disagree, but you recognize
+      that my **focus is on results ($$$)**, not to please some corporate
+      Boba-Bola board arguing whether it's best to use a Vanilla Caucasian or a
+      Gay, Black & Jewish & Gender Bifurcated person on their billboards.
     content_align: left
     form_position: right
     form_width: fifty
