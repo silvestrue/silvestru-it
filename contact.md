@@ -15,12 +15,12 @@ sections:
       Great.
 
 
-      Here is my "ideal wife/client list":
+      Here is my "ideal wife/client":
 
 
-      (1) Personality match - we get along like a house on fire. Business is
-      personal, life is too short to not enjoy working together. So from
-      everything you've seen/read/watched about me, why me specifically? :-)
+      (1) Personality match - business is personal, life is too short to not
+      enjoy working together. So from everything you've seen/read/watched about
+      me, why me specifically? :-)
 
 
       (2) Let me know what you're selling. Hopefully it's not [arsenic disguised
@@ -30,9 +30,12 @@ sections:
 
       (3) You team up with me for my expertise. It's OK to disagree, but you
       recognize that my **focus is on results ($$$)**, not to please some
-      corporate Boba-Bola board arguing whether it's best to use a Vanilla
-      Caucasian or a Gay, Black & Jewish & Gender Bifurcated person on their
-      billboards.
+      corporate Boba-Bola board arguing whether it's best to put on their
+      billboards a Vanilla Caucasian or a Gay, Black & Jewish person who
+      identifies as a Comanche Helicopter for better "representation".
+
+
+      If none of these scare you off, I would love to know about your project.
     content_align: left
     form_position: right
     form_width: fifty
