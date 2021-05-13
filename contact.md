@@ -15,7 +15,7 @@ sections:
       Great.
 
 
-      Here is my "ideal wife/client":
+      Here is my "ideal wife client" list:
 
 
       (1) Personality match - business is personal, life is too short to not
