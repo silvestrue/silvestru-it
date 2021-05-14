@@ -20,7 +20,7 @@ sections:
 
           **Link:** [Google
           Drive](https://drive.google.com/drive/folders/1pfXfEkw9ZkROCCX0H53TmvH80NOY5C2L?usp=sharing)
-      - title: lorem-ipsum
+      - title: B2B Lead Gen Letter
         subtitle: lorem-ipsum
         title_align: left
         content: >-
