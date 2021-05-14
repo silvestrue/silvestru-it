@@ -22,17 +22,16 @@ sections:
           Drive](https://drive.google.com/drive/folders/1pfXfEkw9ZkROCCX0H53TmvH80NOY5C2L?usp=sharing)
       - title: B2B Lead Gen Letter
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          **Product:** USB security software
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Audience:** CSOs, security managers, CTOs
 
 
-          - Lorem ipsum
+          **Link:** [Google
+          Drive](https://drive.google.com/file/d/1MKsz9kdrBgpuOEDEq3V09za_F7mOO7P4/view?usp=sharing)
 
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
